@@ -1,0 +1,18 @@
+* {
+    font-family: Oswald;
+}
+
+form{
+    padding: 15px;
+}
+
+.textfields{
+    width: 95%;
+}
+
+#form{
+    background-color: white;
+    height: 650px;
+    width: 300px;
+    border-radius: 10px;
+}
