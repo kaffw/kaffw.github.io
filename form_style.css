@@ -6,6 +6,10 @@ form{
     padding: 15px;
 }
 
+button{
+    color: white;
+}
+
 .textfields{
     width: 95%;
 }
